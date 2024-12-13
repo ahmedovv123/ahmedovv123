@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHub Snake Animation](assets/ocean.gif)
+![Snake animation](https://raw.githubusercontent.com/ahmedovv123/ahmedovv123/output/github-contribution-grid-snake-dark.svg)
 <!--
 **ahmedovv123/ahmedovv123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
