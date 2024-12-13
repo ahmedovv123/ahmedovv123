@@ -20,6 +20,8 @@
   * Chainlink
   * Oracles
   * Stablecoins - (Endogenous/Exogenous) <- What!?
+  * Optimistic Rollups, Optimism, Arbitrum
+  * ZK Rollups - ZKsync
 * `You talk more about your passion than your current position!` - That's right, someday this might not just be a passion, but my main job.
 * `Whats that snake?` - For fun, credits to [Platane](https://github.com/Platane/snk).
 
