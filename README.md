@@ -1,5 +1,5 @@
 ## Hi 👋
-* `Who am i` - Ahmet Ahmedov, Mid Frontend Developer with 4 years experience. Varna, Bulgaria 🇧🇬
+* `Who am i` - Ahmet Ahmedov, Senior Frontend Developer with 4 years experience. Varna, Bulgaria 🇧🇬
 * `What i do` - Build smooth and optimized front end apps using Pinia, Tailwind/Shadcn, Zod/Vuelidate, VueUse and more.
 * `What i want` - To keep learning as much as i can.
 
