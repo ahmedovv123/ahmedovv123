@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedovv123&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="ahmedovv123" /> </p>
+
 ## Hi 👋
 * `Who am i` - Ahmet Ahmedov, Senior Frontend Developer with 5+ years experience. Varna, Bulgaria 🇧🇬
 * `What i do` - Build smooth and optimized front end apps using Vue 3, Pinia, Tailwind/Shadcn, Zod/Vuelidate, VueUse, PrimeVue and more.
