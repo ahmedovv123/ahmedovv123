@@ -1,9 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedovv123&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="ahmedovv123" /> </p>
 
 ## Hi 👋
-* `Who am i` - Ahmet Ahmedov, Senior Frontend Developer with 5+ years experience. Varna, Bulgaria 🇧🇬
-* `What i do` - Build smooth and optimized front end apps using Vue 3, Pinia, Tailwind/Shadcn, Zod/Vuelidate, VueUse, PrimeVue and more.
-* `What i want` - To keep learning as much as i can.
+* `Who am i` - Ahmet Ahmedov, Full Stack Engineer with 5+ years experience. Varna, Bulgaria 🇧🇬
+* `What i do` - Build smooth and optimized end to end apps using Vue/React, NextJS/NuxtJS, NodeJS, PostgreSQL
 
 ![Snake animation](https://raw.githubusercontent.com/ahmedovv123/ahmedovv123/output/github-contribution-grid-snake-dark.svg)
 <!--
